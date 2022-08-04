@@ -1,36 +1,32 @@
-
 # Pagina: Home
 ### Pagina Elementen
-- Hero img
-- Zoekfunctie in Hero img
-- Kort stukje tekst
-- Slide met uitgelichten activiteiten/locaties
-- Overzicht Activiteit Categorieën met images
-- Laatste blogposts
-- Tekst sectie
+- Hero img -> Zie index
+- Zoekfunctie in Hero img -> Zie index
+- Overzicht Activiteit Categorieën met images, min 4 max 16 -> Zie travel-home "Popular destinations in August" 
+- Slide met uitgelichten activiteiten/locaties -> Zie index "Last minute deals"
+- Stadsdelen -> Zie restaurants home "What's trending"
+- Laatste blogposts -> Zie index "From our travel blog"
+- Tekst sectie -> Te maken, mag simpel zijn. Ten behoeve van SEO 
 
 
 # Pagina: Blog Categorie
 ### Pagina Elementen
 
-- Breadcrumbs
-- Ruimte voor een korte text
-- Overzicht van 20 blogposts
-- Zoekveld
-- Lijst met Sub categorieën
-- Paginatie
+- Zie blog.html
+- Uitgelichte post verwijderen en daarvoor in de plaats een header img met titel
+- Breadcrumbs Toevoegen
 		
 # Pagina: Blogpost
 ### Pagina Elementen
-- Breadcrumbs
-- Het artikel
-- Andere artikelen		
+- Breadcrumbs toevoegen
+- Andere artikelen, element mag elders vandaag gehaald worden	
+- commentes verwijderen
 
 
 # Pagina: Activiteit Categorie
 ### Pagina Elementen
+Zie pagina category-3-rooms.html
 - Breadcrumbs
-- Ruimte voor een korte text
 - Overzicht met 20 uitjes/activiteiten
 - Simpele filter met:
 1. Zoekveld
@@ -40,25 +36,30 @@
 - Uitgebreid Filter PopUp modal
 1. Zoekveld
 2. Locatie/stadsdelen/buurten dropdown
-3. Adres invulveld
 4. Aantal personen
 5. Prijs slider
 6. Tijdsduur slider
 7. Overzicht met veelvoorkomende tags
 - Lijst met sub categorieën 
+- Eventueel link naar de parent category
 - Paginatie
 
+
 # Pagina: Activiteit Categorie met Kaart
+Gebruik category-2-rooms.html
 _Voor locatiegebonden activiteiten, en als er gezocht wordt met locatie._
 _Gelijk als __Activiteit Categorie__ met daaraan toegevoegd:_
 ### Pagina Elementen
 - Kaart van Open street maps
 - Extra filter voor het selecteren van adres en locaties
+- Bespreken hoe gaan doen ivm selecteren
 
-
-# Pagina: Activiteit > Groepsuitje	
+# Pagina: Activiteit > Groepsuitje
+gebruik detail-rooms.html	
+zie ook https://www.getyourguide.co.uk/rome-l33/rome-street-food-and-sightseeing-guided-tour-t251502/
 _Citygame, Rondleiding etc._
 ### Pagina Elementen
+- Buurt verwijderen
 - titel
 - Gallery
 - Video #Optioneel
@@ -73,6 +74,7 @@ _Citygame, Rondleiding etc._
 - Links naar categorieen
 
 # Pagina: Activiteit > Locatie	
+gebruik detail-rooms.html
 _Vergaderingen, diner, dinerprogramma_
 ### Pagina Elementen		
 - Titel
@@ -83,7 +85,7 @@ _Vergaderingen, diner, dinerprogramma_
 - Youtube video _Optioneel_
 - Review data _Optioneel, scrapen via Google maps, trustpilot etc._
 - Faciliteiten _Beamer, Scherm, Wifi etc_
-- Arrangement * _1 of meer_
+- Arrangement * _1 of meer_ -> Zie 
 1. Titel
 2. Tekst
 3. Min prijs
@@ -100,7 +102,3 @@ _Vergaderingen, diner, dinerprogramma_
 4. Max aantal personen
 5. Ruimte Faciliteiten _Beamer, Scherm, Wifi etc_
 - Openingstijden
-
-# Activiteit > Ticket
-???
-
